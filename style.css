@@ -238,7 +238,7 @@ body{
     -moz-transform: rotateY(calc(90deg * var(--i))) translateZ(100px);
     -ms-transform: rotateY(calc(90deg * var(--i))) translateZ(125px);
     -o-transform: rotateY(calc(90deg * var(--i))) translateZ(125px);
-    color: #009cff;
+    color: #ff00e1;
     font-size: 5em;
     font-weight: 900;
     font-family: 'Overlock', cursive;
