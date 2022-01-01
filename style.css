@@ -134,11 +134,11 @@ body{
     -moz-transform: rotateY(calc(90deg * var(--i))) translateZ(125px);
     -ms-transform: rotateY(calc(90deg * var(--i))) translateZ(125px);
     -o-transform: rotateY(calc(90deg * var(--i))) translateZ(125px);
-    color: #009cff;
+    color: #ff00e1;
     font-size: 6em;
     font-weight: 900;
     font-family: 'Overlock', cursive;
-    -webkit-text-stroke: 3px #fff;
+    -webkit-text-stroke: 2px #fff;
     transform-style: preserve-3d;
 }
 .tree div.text span:nth-child(1){
@@ -151,7 +151,7 @@ body{
     transform-origin: bottom;
     transform: rotateX(-90deg);
     -webkit-text-stroke: 1px #fff;
-    color: #009dff63;
+    color: #ff00e147;
     filter: blur(3px);
 }
 
