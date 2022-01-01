@@ -11,7 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #e8ffe8;
+    background: url('./frontend_webdeveloper.jpg');
+    background-size: cover;
 }
 .tree{
     position: relative;
