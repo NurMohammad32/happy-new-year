@@ -11,10 +11,10 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* background: linear-gradient(0deg, #3f3e3e, rgb(168, 168, 168)); */
+    background: linear-gradient(90deg, #5c5c5c, #2e2e2e);
     /* background-color: #e8ffe8; */
-    background-image: url('./frontend_webdeveloper.jpg');
-    background-size: cover;
+/*     background-image: url('./frontend_webdeveloper.jpg'); */
+/*     background-size: cover; */
 }
 .tree{
     position: relative;
